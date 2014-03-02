@@ -1,0 +1,8 @@
+bin\Debug\CARO.exe
+bin\Debug\CARO.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CARO.Form1.resources
+obj\Debug\CARO.Properties.Resources.resources
+obj\Debug\CARO.csproj.GenerateResource.Cache
+obj\Debug\CARO.exe
+obj\Debug\CARO.pdb

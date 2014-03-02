@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CARO">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\CARO.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\CARO.suo">
+</Property><Property Name="Date" Value="Monday, January 11, 2010">
+</Property><Property Name="Time" Value="15:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CARO.sln" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CARO.suo" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO.suo">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\CARO.csproj" Description="Project file successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\CARO.csproj">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\graphic.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\graphic.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Program.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Program.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="CARO" Source="CARO\Resources\ph-10002.jpg" Description="Failed to backup file as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Resources\ph-10002.jpg">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\THE558_02\Desktop\CARO Nguyen Van Viet\Backup\CARO\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\CARO.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CARO" Source="CARO\CARO.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CARO.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CARO.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CARO" Source="CARO\CARO.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
