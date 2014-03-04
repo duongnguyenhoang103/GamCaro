@@ -16,6 +16,7 @@ import javax.swing.*;
 public class Caro extends JPanel implements ActionListener {
 
     JPanel pan = new JPanel();
+  //  public JFrame frame = new JFrame();
     public JPanel frame = new JPanel();
     public int n = 10, m = 10, num = 0, diem = 0;
     public JButton btn[][] = new JButton[n][m];
