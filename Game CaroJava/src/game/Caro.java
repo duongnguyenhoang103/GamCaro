@@ -16,13 +16,13 @@ import javax.swing.*;
 public class Caro extends JPanel implements ActionListener {
 
     JPanel pan = new JPanel();
-    public JFrame frame = new JFrame();
+    public JPanel frame = new JPanel();
     public int n = 10, m = 10, num = 0, diem = 0;
     public JButton btn[][] = new JButton[n][m];
     int pos[][] = new int[m][n];
 
 //ham add
-    public void add() {
+    public JPanel add() {
         frame.add(pan);
         pan.setLayout(new GridLayout(n, m));
         for (int i = 0; i < n; i++) {
@@ -44,13 +44,15 @@ public class Caro extends JPanel implements ActionListener {
                 btn[i][j].setBackground(Color.white);
             }
         }
-        frame.setVisible(true);
-        pan.setSize(600, 800);
-        frame.setSize(600, 600);
-        frame.setResizable(false);
-        frame.setLocationRelativeTo(null);
+     //   frame.setVisible(true);
+        pan.setSize(600, 450);
+      
+        return pan;
+       // frame.setSize(600, 600);
+      //  frame.setResizable(false);
+     //   frame.setLocationRelativeTo(null);
 
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+     //   frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 //tim o trong de set text
 
